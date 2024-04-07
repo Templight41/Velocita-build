@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d3a9ebb0.chunk.css",
-    "main.js": "/static/js/main.30dbad49.chunk.js",
-    "main.js.map": "/static/js/main.30dbad49.chunk.js.map",
+    "main.js": "/static/js/main.b74a784e.chunk.js",
+    "main.js.map": "/static/js/main.b74a784e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cca76dba.js",
     "runtime-main.js.map": "/static/js/runtime-main.cca76dba.js.map",
     "static/js/2.a62c405d.chunk.js": "/static/js/2.a62c405d.chunk.js",
@@ -192,7 +192,7 @@
     "static/media/vr-new-logo-white.184bc53b.webp": "/static/media/vr-new-logo-white.184bc53b.webp",
     "static/media/vrf5-banner.62849842.png": "/static/media/vrf5-banner.62849842.png",
     "static/media/vrf5-car.3688fa61.png": "/static/media/vrf5-car.3688fa61.png",
-    "static/media/vrf5.36c8d300.jpeg": "/static/media/vrf5.36c8d300.jpeg",
+    "static/media/vrf5.666fc70a.jpg": "/static/media/vrf5.666fc70a.jpg",
     "static/media/wall.4f89e318.png": "/static/media/wall.4f89e318.png",
     "static/media/writer.281b9a13.webp": "/static/media/writer.281b9a13.webp"
   },
@@ -200,6 +200,6 @@
     "static/js/runtime-main.cca76dba.js",
     "static/js/2.a62c405d.chunk.js",
     "static/css/main.d3a9ebb0.chunk.css",
-    "static/js/main.30dbad49.chunk.js"
+    "static/js/main.b74a784e.chunk.js"
   ]
 }
